@@ -1,0 +1,12 @@
+ls -l ej1.c > out < in
+xeyes &
+ls -la | wc -l &
+ñsaj {}dfhwiuoyrtrjb23 b2 998374 2h231 #$L!,
+cat input.in | grep passwd | wc -l > out1.txt > out2.txt
+< in.txt
+> out.txt
+hola >
+hola |
+grep < |
+grep & hola
+hola | a
