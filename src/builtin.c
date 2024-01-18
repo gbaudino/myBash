@@ -84,9 +84,8 @@ static void execute_cd(scommand cmd){
 static void execute_help(scommand cmd){
     assert(cmd != NULL);
     if(scommand_length(cmd) == 1){
-        printf("\tJASH(Just Another SHell)\n");
+        printf("JASH(Just Another SHell)\n");
         printf("\nAuthors: (surname lexicographic order)\n");
-        printf("\t - Antequera, Ezequiel\n");
         printf("\t - Baudino, Geremias\n");
         printf("\t - Guglieri, Juan Cruz\n");
         printf("\t - Mollea, Maria Agustina\n");

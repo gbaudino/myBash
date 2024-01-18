@@ -14,11 +14,11 @@
 
 # Logs for tests
 *.log
-test*.log
 
 # Compiled C binary files
-
-
 .depend
 runtest
 runner*
+*.o
+*/*.o
+mybash
